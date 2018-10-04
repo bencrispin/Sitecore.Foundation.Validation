@@ -18,14 +18,14 @@ namespace Sitecore.Foundation.Validation.Validators.ItemValidators
     public class DuplicateFieldNameValidator : StandardValidator
     {
         /// <summary>
-        /// Initializes a new instance of the <see cref="T:Sitecore.Data.Validators.ItemValidators.DuplicateNameValidator" /> class.
+        /// Initializes a new instance of the <see cref="T:Sitecore.Foundation.Validation.Validators.ItemValidators.DuplicateFieldNameValidator" /> class.
         /// </summary>
         public DuplicateFieldNameValidator()
         {
         }
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="T:Sitecore.Data.Validators.ItemValidators.DuplicateNameValidator" /> class.
+        /// Initializes a new instance of the <see cref="T:Sitecore.Foundation.Validation.Validators.ItemValidators.DuplicateFieldNameValidator" /> class.
         /// </summary>
         /// <param name="info">The serialization info.</param>
         /// <param name="context">The context.</param>
